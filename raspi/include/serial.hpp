@@ -20,4 +20,4 @@ private:
   int gpio_handle_;
   int serial_handle_;
 };
-};
+}

@@ -52,4 +52,4 @@ private:
   timespec now_, prev_;
   GY521Param param_;
 };
-};
+}

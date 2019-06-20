@@ -17,4 +17,4 @@ private:
   int gpio_handle_;
   int i2c_handle_;
 };
-};
+}

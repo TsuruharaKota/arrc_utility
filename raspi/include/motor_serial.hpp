@@ -41,4 +41,4 @@ private:
   std::queue<SendDataFormat> send_data_queue_;
   std::mutex mtx_;
 };
-};
+}

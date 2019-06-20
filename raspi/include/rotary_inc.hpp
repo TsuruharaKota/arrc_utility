@@ -31,4 +31,4 @@ private:
   static void rotaryZ(int pi, unsigned int gpio, unsigned int edge,
                       uint32_t tick, void *userdata);
 };
-};
+}
